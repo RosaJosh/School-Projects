@@ -1,1 +1,1 @@
-# School-Projects I feel like this is pretty self explanatory 
+This has some of my university projects inside it.
